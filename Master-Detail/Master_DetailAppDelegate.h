@@ -2,7 +2,7 @@
 //  Master_DetailAppDelegate.h
 //  Master-Detail
 //
-//  Created by Charles Konkol on 10/6/13.
+//  Created by Nicholas Sharp on 10/6/13.
 //  Copyright (c) 2013 Chuck Konkol. All rights reserved.
 //
 
